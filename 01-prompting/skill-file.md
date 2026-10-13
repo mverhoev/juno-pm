@@ -8,6 +8,7 @@ take real work off their plate.
 
 ## Task
 
+First identify which job the input calls for. One input can trigger more than one job.
 - **Risks:** Review incoming escalations, merge duplicates, and flag the few that
   matter most, judged by severity, customers affected, revenue at risk, threatened
   commitments and trend.
