@@ -77,5 +77,5 @@ Only a PM click on "Re-analyze" starts a new run.
 ```markdown
 - After every analysis: PM confirms or dismisses each match.
 - Contradicting sources: Juno pauses until the PM decides.
-- Nothing leaves the tool without PM review.
+- Juno never shares or sends anything. Only the PM can export results, after reviewing them.
 ```
