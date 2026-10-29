@@ -3,6 +3,7 @@
 > Module 2 · Prototype. The working build that tests your idea, made with your build tool of choice.
 
 ## Prototype link
+https://lovable.dev/projects/0b07265f-02e9-4fd4-ad1b-9eb8cf19c92b?magic_link=mc_eeef4835-b95d-494a-9525-22b3f14398f1
 
 <img width="1287" height="1197" alt="image" src="https://github.com/user-attachments/assets/4fee9544-1ae1-4c66-8e32-e82036f5564e" />
 
